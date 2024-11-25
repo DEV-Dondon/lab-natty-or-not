@@ -1,7 +1,3 @@
-Aqui está uma versão adaptada e personalizada para ser usada no seu GitHub sem indicar que foi copiada:
-
----
-
 # Natural ou Fake Natty? Explorando o Potencial das IAs Generativas 🚀
 
 ## 📒 Descrição do Projeto
